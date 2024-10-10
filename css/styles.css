@@ -34,7 +34,7 @@ h2 {
 
 .container-menu,
 .container-aboutme,
-.container-experience,
+/*.container-experience,*/
 .projetos,
 .container-contact {
     display: grid;
@@ -85,9 +85,9 @@ h2 {
     font-weight: bold;
 }
 
-.container-experience {
+/*.container-experience {
     grid-template-columns: 1fr;
-}
+}*/
 
 .experience-text-info, .experience-text-info li {
     padding-top: 0.5rem;
