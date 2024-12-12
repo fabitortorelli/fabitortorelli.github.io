@@ -51,4 +51,9 @@ To build this web page I had to study how HTML and CSS work and how to publish i
 
 - **Making the page responsive:** when I first set the HTML structure and CSS style I inspected the page and noticed that it wasn’t optimized for different devices. Therefore, I used ChatGPT to help me with the problem and I compared my initial work with the suggestions provided by GPT to find the best solution;
 - **Analyze the size of the images used:** for the images on my page, I used a website that allows downloading free high-definition images. However, these HD images make the page load slowly. To overcome this issue, it is necessary to optimize the image sizes to ensure faster loading.
+  
+## References
+- [Web developer bootcamp course](https://www.udemy.com/course/the-web-developer-bootcamp)
+- [W3schools](https://www.w3schools.com/html/default.asp)
+- [Github pages tutorial](https://pages.github.com/)
 
